@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.4909937648214945
-  lightness: 0.7354426455295097
-  rhythmicContrast: 0.7633243215542149
-  saturation: 0.25287166557533947
+    - '#FEFEFE'
+    - '#7BA6D0'
+    - '#99BED9'
+    - '#B5D1E6'
+    - '#4C716A'
+  brandStrength: 0.961149
+  lightness: 0.735442
+  rhythmicContrast: 0.763324
+  saturation: 0.252871
 cta: {}
-layout_spectrum: 0.013059
+layout_spectrum: 0.764358
 name: lftest
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.7692372061710345
+typography_spectrum: 0.766892
